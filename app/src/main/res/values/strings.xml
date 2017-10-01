@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">Resep_Michelle</string>
+
+        <string name="bahan">Bahan bahan : </string>
+        <string name="cara">Cara membuat : </string>
+        <string-array name="judul_resep">
+            <item>Nasi Hainan Ayam Rebus</item>
+            <item>Daging Sapi Lada Hitam</item>
+            <item>Fuyunghai</item>
+            <item>Sapo Tahu Daging Paprika</item>
+            <item>Nasi Tim Ayam Kemangi</item>
+            <item>Ayam Saus Lemon</item>
+            <item>Mie Goreng</item>
+            <item>Bakso Goreng</item>
+            <item>Steamed Chinese Dumpling</item>
+            <item>Bebek Panggang</item>
+        </string-array>
+        <string-array name="deskripsi_bahan">
+            <item>Daging ayam yang disajikan bersama dengan nasi dengan cara tradisional Hainan yaitu merebus seluruh ayam dalam kaldu ayam asli</item>
+            <item>Daging sapi lada hitam asli negeri Cina mungkin salah satu makanan favorit Anda. Cita rasa pedas akan membalut masakan yang satu ini</item>
+            <item>Masakan Tionghua yang dibuat dari telur yang didadar dengan campuran sayuran, daging atau makanan laut</item>
+            <item>Salah satu jenis masakan Tiongkok. Terbuat dari tahu jepang dipadukan dengan daging, sayuran dan paprika</item>
+            <item>Hidangan Tionghua berupa nasi dan ayam dengan cita rasa gurih dengan wanginya daun kemangi</item>
+            <item>Daging ayam goreng tepung yang disajikan dengan saus lemon</item>
+            <item>Mie goreng dilengkapi dengan telur, smoke beef, sosis ayam, bakso ikan, dan sayur-sayuran sesuai selera dengan rasa manis</item>
+            <item>Bakso ayam goreng dengan beberapa sayuran tambahan. Cocok sebagai teman makan nasi,atau cemilan saja.</item>
+            <item>Dumpling isi ayam, udang dan daun bawang dibungkus dengan kulit pangsit dan di steam.</item>
+            <item>Bebek panggang dengan rasa madu yang menambah cita rasa.</item>
+
+        </string-array>
+        <string-array name="detail_resepku">
+        <item> 1 buah dada ayam tanpa tulang\n
+            3 cup beras, cuci bersih\n
+            Kaldu ayam asli secukupnya\n
+            2 ruas jahe, digeprek\n
+            Lada secukupnya\n
+            3 siung bawang putih, cincang halus\n
+            1 sdt minyak wijen\n
+            1 sdm minyak evoo atau bisa diganti minyak sayur\n
+            1 sdm kecap asin\n
+            1 sdt saus tiram\n
+           </item>
+        <item> 150 gram daing sapi, iris tipis\n
+            2 siung bawang putih, cincang\n
+            1/4 buah bawang bombay, iris tipis\n
+            2 sdm lada hitam\n
+            3 buah cabai hijau besar, iris tipis\n
+            Garam secukupnya\n
+            Gula secukupnya\n
+            1/2 sdm kecap inggris\n
+            1 sdt saus tiram\n
+            1/2 sdm kecap manis \n</item>
+        <item> 2 buah telur, kocok\n
+            1 sdm penuh tepung kanji\n
+            Garam secukupnya\n
+            Kaldu jamur secukupnya\n
+            Kol iris tipis\n
+            2 buah wortel, iris tipis\n
+            Daun bawang iris tipis\n</item>
+        <item> 150 gram daging sapi, potong sesuai selera, rebus 20 menit hingga empuk, dan simpan kaldunya\n
+            1 bungkus tahu sutra, potong-potong lalu goreng sebentar\n
+            1 buah paprika merah ukuran kecil\n
+            1 buah paprika hijau ukuran kecil\n
+            2 helai sawi putih\n
+            3 siung bawang putih\n
+            1/2 butir bawang bombay, potong kotak-kotak\n
+            Merica bubuk secukupnya\n
+            1 sdt maizena\n
+            Air secukupnya\n
+            Minyak untuk menumis\n
+            Garam halus secukupnya\n
+            Bumbu penyedap rasa sapi secukupnya, optional\n</item>
+        <item>   2 cup beras\n
+            1 gelas air\n
+            1 potong dada ayam yang sudah digoreng\n
+            1/2 sdt garam\n
+            1 sdm margarin\n
+            1/2 sdt penyedap rasa ayam\n
+            Daun kemangi secukupnya\n</item>
+        <item> 500 gram daging dada ayam fillet, potong sesuai selera\n
+                1 siung bawang putih, haluskan\n
+                1 sdt garam\n
+                ½ sdt merica bubuk\n
+                1 buah jeruk nipis, peras airnya\n
+                1 sdm kecap ikan\n
+                2 butir telur ayam, kocok lepas\n
+                100 gram tepung terigu\n
+                100 gram tepung kanji\n
+                Minyak goreng secukupnya\n
+                1 sdm wijen\n\n
+
+            Bahan Saus Lemon:\n
+
+                250 ml air\n
+                3 sdm perasan air jeruk lemon\n
+                1 ruas jari jahe, parut\n
+                2 sdm gula pasir\n
+                1 sdm madu\n
+                ½ sdt garam\n
+                1 sdm tepung maizena\n\n</item>
+            <item>
+                1 bungkus mie atom bulan\n
+                5 siung bawang putih\n
+                3 siung bawang merah\n
+                4 buah cabe keriting merah\n
+                3 butir telur ayam, kocok\n
+                secukupnya sayur petsai / caisim\n
+                5 lembar smoke beef\n
+                3 buah sosis ayam\n
+                4 buah bakso ikan\n
+                sesuai selera Merica dan penyedap\n
+                sesuai selera Kecap asin\n
+                Minyak untuk menumis\n
+                3 sdm Kecap ikan\n
+                sesuai selera Kecap manis\n\n </item>
+            <item>Bahan daging:\n
+                500 gram daging ayam cacah\n
+                1/2 buah bawang bombay, cacah halus\n
+                4 siung bawang putih, cacah halus\n
+                1/2 buah wortel, cacah halus\n
+                10 batang daun kucai, iris tipis\n
+                2 butir telur, kocok lepas\n
+                secukupnya Garam dan merica\n
+                1 sdt bumbu ngoh hiang bubuk\n\n
+                Bumbu tepung:\n
+                125 gram Terigu serba guna\n
+                200 mL Air\n
+                1/4 sdt Garam\n
+                Optional: 1/2 sdt baking powder (lebih renyah)\n\n </item>
+            <item>
+                150 gram daging ayam giling\n
+                10 pc udang ukuran sedang, potong kotak\n
+                1 btg daun bawang, diiris halus\n
+                1/2 sdt kecap asin\n
+                1/4 sdt minyak wijen\n
+                Sejumput merica\n
+                1/2 sdt garam\n
+                2 cm jahe, diparut\n
+                1 pack kulit siomay siap pakai (kira2 20pc)\n\n
+            </item>
+            <item>1 ekor bebek muda ukuran sedang\n
+                    7 sdm madu\n
+                    1 ruas jari jahe\n
+                    secukupnya garam\n
+                    6 sdm kecap hitam manis\n
+                    1 sdt gula pasir\n
+                    3 sdm minyak wijen\n\n
+            </item>
+        </string-array>
+        <string-array name="cara_resep">
+        <item>  1.  Cuci bersih beras, masukan semua bahan ke dalam rice cooker dan tunggu hingga matang.\n\n
+                2.  Setelah matang angkat daging ayam potong-potong. Aduk-aduk nasi hainam supaya tidak menggumpal. Sajikan dengan cabe potong dan kecap asin jika suka. \n</item>
+        <item> 1.  Tumis bawang putih dan bawang bombay sampai harum.\n\n
+            2.  Masukkan daging, aduk rata. Tunggu sampai daging setengah matang, masukkan lada hitam, kecap manis, kecap inggris, saos tiram, garam, gula, dan cabe hijau. Aduk rata.\n\n
+            3.  Masak sekitar 15 menit, aduk sesekali, dan cicipi daging sampai benar-benar matang.\n</item>
+        <item> 1.  Siapkan bahan. Satukan tepung dengan sedikit air tambahkan pada kocokan telur (cara agar tepung tidak menggumpal).\n\n
+            2.  Masukan garam, kaldu jamur. Tambahkan sayur mayur. Aduk rata.\n\n
+            3.  Panaskan minyak (minyak harus agak banyak). Goreng telur sampai matang.\n</item>
+        <item> 1.  Tumis bawang putih yang sudah di geprek sampai wangi, kemudian masukkan bawang bombai, tumis hingga sedikit layu. Kemudian tambahkan rebusan daging bersama kaldunya.\n\n
+    2.  Setelah kira-kira 10 menit, tambahkan sawi putih yang sudah di potong-potong sesuai selera, diamkan sejenak kemudian tambahkan potongan paprika merah dan hijau.\n\n
+    3.  Setelah agak layu, tambahkan merica bubuk secukupnya dan bumbu penyedap sapi.\n\n
+    4.  Setelah semuanya tercampur, terakhir masukkan tahu sutra yang sudah di goreng,  aduk-aduk hingga semua meresap.\n\n
+    5.  Tambahkan garam, encerkan tepung maizena dengan sedikit air, lalu masukkan dalam tumisan. Aduk-aduk rata, diamkan sebentar. Angkat dan sajikan.\n</item>
+    <item> 1.  Masak beras seperti biasa, sesudah matang aduk sampai sedikit mengental. Lalu campur lagi 1 gelas air sambil di aduk.\n\n
+    2.   Masukan ayam goreng sambil di suir-suir, lalu di susul dengan bumbu garam, penyedap rasa, dan margarin aduk hingga merata dan tutup selama 2 menit.\n\n
+    3.  Setelah 2 menit masukan daun kemangi sesuai selera, aduk lagi hingga merata. Tutup kembali dan tunggu hingga matang\n</item>
+    <item>1. Lumuri daging ayam yang sudah dipotong dengan air jeruk nipis, garam, merica, bawang putih dan kecap ikan. Diamkan sekitar 15 menit agar bumbu meresap\n\n
+    2. Campurkan tepung terigu dengan tepung kanji hingga rata\n\n
+    3. Celupkan ayam dalam telur yang sudah dikocok, kemudian gulingkan dalam campuran tepung terigu dan tepung kanji. Ulangi hingga potongan ayam habis.\n\n
+    4. Panaskan minyak, goreng ayam hingga kuning kecoklatan. Angkat, sisihkan.\n\n
+    5. Masak air bersama dengan parutan jahe, air perasan jeruk nipis, gula, madu dan garam hingga mendidih.\n\n
+    6. Masukkan tepung maizena yang sudah dilarutkan dengan sedikit air, aduk rata\n\n
+    7. Masukkan ayam yang sudah digoreng ke dalam campuran saus, aduk hingga mengental. Angkat\n\n
+    8. Sajikan dengan taburan wijen</item>
+
+    <item>
+    1. Rebus mie atom, sisihkan\n\n
+    2. Potong sayur,sosis,bakso ikan,smoke beef, sisihkan\n\n
+    3. Ulek bawang putih,bawang merah, dan cabe lalu tumis sampai wangi, masukan telur yg sudah dikocok dahulu oseng sampai setengah matang lalu masukan semua isian sayur,sosis,bakso ikan,smoke beef oseng sebentar kemudian masukan mie yg sudah direbus dan beri kecap asin,kecap ikan,merica, penyedap dan kecap manis -oseng semua sampai tercampur rata dan siap dihidangkan\n
+    </item>
+
+    <item>1. Campur rata semua bahan daging dan bentuk bola-bola. – Kukus hingga matang. – Aduk rata semua bahan tepung. – Siapkan wajan penggorengan, celupkan bola daging dalam adonan tepung dan goreng hingga cokelat keemasan. – Sajikan dengan nasi putih dan saus sambal atau saus tomat. Disajikan simple begini aja uda enak.. Mau disajikan dengan saus asam manis atau lainnya juga okeeee… Untuk 40 bakso\n</item>
+
+    <item>1. Aduk ayam, udang, daun bawang, jahe, kecap, minyak wijen, garam dan merica menjadi 1. Sisihkan\n\n
+        2. Untuk membuat dumpling, tempatkan sesendok isian daging tadi ke tengah2 kulit siomay, yang sudah dicetak menjadi lingkaran dg bantuan cookie cutter. Beri air di tepi kulit siomay tadi. Lipat sehingga menjadi 1/2 lingkaran dan lipit2 tepi2nya.\n\n
+        3. Kukus pada kukusan yg sudah dialasi kertas atau daun pisang. Kukus 10 menit.\n\n
+        4. Sajikan dg kecap asin/cuka hitam\n
+    </item>
+    <item>1. Rebus air sampai mendidih lalu rendam sejenak angkat dan keringkan.\n\n
+        2. Selanjutnya campur satu wadah semua bumbu di atas bersama bebek yg sudah di rebus,simpan dlm kulkas selama 2 jam.\n\n
+        3. Setelah dingin kemudian simpan bebek ke dalam loyang,pangang dgn suhu 145*c selama sekitar 50 menit dan balikan posisi selama 40 menit.\n\n
+
+            </item>
+
+        </string-array>
+
+
+</resources>

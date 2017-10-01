@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg2"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="17dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/judulResep"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textSize="21sp"
+            tools:text="Nama resep masakan"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true"
+
+            />
+
+        <ImageView
+            android:id="@+id/gambar"
+            android:layout_marginBottom="17dp"
+            android:layout_marginTop="17dp"
+            android:layout_width="350dp"
+            android:layout_height="280dp"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center"
+            tools:src="@drawable/satu"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="19sp"
+            android:text="@string/bahan"
+            />
+        <TextView
+            android:id="@+id/bahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="19sp"
+            tools:text="Bahan- bahan masakan: "
+            android:layout_marginBottom="16dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="19sp"
+            android:text="@string/cara"
+            />
+        <TextView
+            android:id="@+id/keterangan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Bahan : "
+            android:textSize="19sp"
+            />
+    </LinearLayout>
+
+</ScrollView>
